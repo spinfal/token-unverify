@@ -1,4 +1,4 @@
-requests as r
+requests
 random
 sys
 time
