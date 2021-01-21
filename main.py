@@ -1,5 +1,4 @@
 import requests as r
-import random
 import sys
 import time as t
 
